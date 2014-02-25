@@ -3,4 +3,5 @@
     <string name="app_name">palindroid</string>
     <string name="edit_palindrome">Enter word</string>
     <string name="button_check">Check</string>
+    <string name="text_result"></string>
 </resources>
